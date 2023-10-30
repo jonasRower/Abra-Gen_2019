@@ -1,0 +1,5 @@
+_	_	_
+27-2-2019 15-44-47	PASSED	
+27-2-2019 15-46-38	PASSED	
+27-2-2019 15-48-40	FAILED	Chybne radky c.: 6 viz. prilozeny _Failed.xlsm
+

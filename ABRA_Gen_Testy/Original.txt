@@ -1,0 +1,6 @@
+﻿Kód	Název	IČO	DIČ	PSČ	Město	Ulice	Satus spolehlivosti	Země DPH reg.	E-Mail	Číslo EORI	IČD
+"z0040"	"ABRA Software a.s."	"25097563"	"CZ25097563"	""	""	""	Spolehlivá	""	""	""	"CZ2266126655"
+"z0043"	"Alfa s.r.o."	"2266126655"	"CZ2266126655"	""	""	""	Nenalezena	""	""	"602 00"	"602 00"
+"z0042"	"Alfa s.r.o."	"2266126655"	"CZ2266126655"	""	""	""	Nenalezena	""	""	"602 00"	"602 00"
+"z0041"	"Alfa s.r.o."	"2266126655"	"CZ2266126655"	""	""	""	Nenalezena	""	""	"602 00"	"602 00"
+"00001"	"Vymyšlená Firma"	"125987"	"36954"	""	""	""	Nekontrolována	""	""	"36986598"	"3698"
